@@ -1,4 +1,4 @@
-# Ti4.NYC
+# Ti4.NYC, (Note: I Don't own the credits for the flask, it is created by a guy name Shy, github.com/Shy)
 
 ## What is this about?
 
